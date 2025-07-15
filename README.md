@@ -5,6 +5,7 @@
 This project was developed collaboratively by:
 - [Miriam Bradpiece](https://github.com/MiriamBradpiece)  
 - [Yael Horen](https://github.com/YaelHoren)
+
 We worked together on building a virtual store application in React.
 
 ## Overview
